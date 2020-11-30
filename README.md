@@ -15,14 +15,16 @@ Tenga en cuenta que este valor final a pagar corresponde al precio de cada produ
 
 
 ## PUNTO #1: 
-**10 Puntos** Implemente la soluci´on al problema planteado en el lenguaje de programaci´on escogido (python, c++, matlab, etc) y en el editor de programaci´on de su preferencia.
+**10 Puntos** 
+Implemente la soluci´on al problema planteado en el lenguaje de programaci´on escogido (python, c++, matlab, etc) y en el editor de programaci´on de su preferencia.
 Tenga en cuenta las guias para el estilo de programaci´on, de manera que el c´odigo sea sencillo, bien estructurado y f´acil de leer
 
 ### ARCHIVO: CODIGO.PY
 
 
 ## PUNTO #2: 
-**5 Puntos** Cree un archivo de texto y resuelva las siguientes preguntas:
+**5 Puntos** 
+Cree un archivo de texto y resuelva las siguientes preguntas:
 1.	Que tipo de errores se presentaron o se pueden presentar con su implementaci´on al problema?
 2.	Que estrategias podr´ıa usar para solucionar estos errores?
 
@@ -30,17 +32,20 @@ Tenga en cuenta las guias para el estilo de programaci´on, de manera que el c´
 
 
 ## PUNTO #3: 
-**10 Puntos** Cree el repositorio ParcialHerramientasComputacionales usando su cuenta en el controlador de Versiones Github (un repositorio por pareja), suba los archivos de soluci´on al problema creados en los dos items anteriores
+**10 Puntos** 
+Cree el repositorio ParcialHerramientasComputacionales usando su cuenta en el controlador de Versiones Github (un repositorio por pareja), suba los archivos de soluci´on al problema creados en los dos items anteriores
 
 ### ESTE REPOSITORIO
 
 
 ## PUNTO #4: 
-**10 Puntos** Cree la documentacion asociada al problema en el archivo readme del repositorio, que problema es? que modelo computacional lo resuelve? Su algoritmo que recibe como entrada? cual ser´ıa su salida? como lo calcula? Relacione los archivos existentes en su repositorio, de esta forma, al leerse el archivo Readme el usuario puede guiarse que informaci´on contiene cada archivo y el problema que soluciona. Asegurense de usar negrita, cursiva, listas ordenadas y dem´as estructuras en markdown para darle estilo al documento
+**10 Puntos** 
+Cree la documentacion asociada al problema en el archivo readme del repositorio, que problema es? que modelo computacional lo resuelve? Su algoritmo que recibe como entrada? cual ser´ıa su salida? como lo calcula? Relacione los archivos existentes en su repositorio, de esta forma, al leerse el archivo Readme el usuario puede guiarse que informaci´on contiene cada archivo y el problema que soluciona. Asegurense de usar negrita, cursiva, listas ordenadas y dem´as estructuras en markdown para darle estilo al documento
 
 ### ESTE README
 
-## PUNTO#5: 15 Puntos Cree un informe de soluci´on al parcial en Latex siguiendo la plantilla:
+## PUNTO#5: 
+**15 Puntos Cree un informe de soluci´on al parcial en Latex siguiendo la plantilla:**
 https://es.overleaf.com/latex/templates/programming-assignment-template/hkszvrpcgzzd Incluya el codigo realizado y pantallazos del repositorio en donde se muestre claramente el desarrollo de cada item del parcial.
 Entregar el informe en pdf y la plantilla .tex en la actividad del blackboard antes del dia 4 de diciembre (una entrega por pareja)
 
