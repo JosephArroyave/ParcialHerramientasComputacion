@@ -8,21 +8,21 @@ Para recuperarse un poco del tiempo en cuarentena, las cafeterias de la universi
 Pida por teclado la siguiente informaci´on para el cliente: c´edula y rol: profesor o estudiante
 Registrar el producto a comprar: c´odigo producto, cantidad de unidades y precio del producto.
 Los descuentos est´an dados de la siguiente forma: los estudiantes tienen un 50% de descuento mientras que los profesores tienen un 20% de descuento
-Al final el procedimiento por cada cliente deber´a imprimir el valor a pagar por sus productos de la forma: ”El Rol con cedula Numero, debe pagar Valor por el producto Codigo”
+Al final el procedimiento por cada cliente deber´a imprimir el valor a pagar por sus productos de la forma: ***”El Rol con cedula Numero, debe pagar Valor por el producto Codigo”
  
-Ejemplo: ”El profesor con Cedula 1454898 debe pagar $12.900 por el producto 076”.
+Ejemplo: ***”El profesor con Cedula 1454898 debe pagar $12.900 por el producto 076”.***
 Tenga en cuenta que este valor final a pagar corresponde al precio de cada producto por la cantidad llevada menos el descuento otorgado, debe imprimir el rol y la c´edula de cada cliente y el c´odigo del producto llevado en el mensaje.
 
 
 ## PUNTO #1: 
-10 Puntos Implemente la soluci´on al problema planteado en el lenguaje de programaci´on escogido (python, c++, matlab, etc) y en el editor de programaci´on de su preferencia.
+**10 Puntos** Implemente la soluci´on al problema planteado en el lenguaje de programaci´on escogido (python, c++, matlab, etc) y en el editor de programaci´on de su preferencia.
 Tenga en cuenta las guias para el estilo de programaci´on, de manera que el c´odigo sea sencillo, bien estructurado y f´acil de leer
 
 ### ARCHIVO: CODIGO.PY
 
 
 ## PUNTO #2: 
-5 Puntos Cree un archivo de texto y resuelva las siguientes preguntas:
+**5 Puntos** Cree un archivo de texto y resuelva las siguientes preguntas:
 1.	Que tipo de errores se presentaron o se pueden presentar con su implementaci´on al problema?
 2.	Que estrategias podr´ıa usar para solucionar estos errores?
 
@@ -30,13 +30,13 @@ Tenga en cuenta las guias para el estilo de programaci´on, de manera que el c´
 
 
 ## PUNTO #3: 
-10 Puntos Cree el repositorio ParcialHerramientasComputacionales usando su cuenta en el controlador de Versiones Github (un repositorio por pareja), suba los archivos de soluci´on al problema creados en los dos items anteriores
+**10 Puntos** Cree el repositorio ParcialHerramientasComputacionales usando su cuenta en el controlador de Versiones Github (un repositorio por pareja), suba los archivos de soluci´on al problema creados en los dos items anteriores
 
 ### ESTE REPOSITORIO
 
 
 ## PUNTO #4: 
-10 Puntos Cree la documentacion asociada al problema en el archivo readme del repositorio, que problema es? que modelo computacional lo resuelve? Su algoritmo que recibe como entrada? cual ser´ıa su salida? como lo calcula? Relacione los archivos existentes en su repositorio, de esta forma, al leerse el archivo Readme el usuario puede guiarse que informaci´on contiene cada archivo y el problema que soluciona. Asegurense de usar negrita, cursiva, listas ordenadas y dem´as estructuras en markdown para darle estilo al documento
+**10 Puntos** Cree la documentacion asociada al problema en el archivo readme del repositorio, que problema es? que modelo computacional lo resuelve? Su algoritmo que recibe como entrada? cual ser´ıa su salida? como lo calcula? Relacione los archivos existentes en su repositorio, de esta forma, al leerse el archivo Readme el usuario puede guiarse que informaci´on contiene cada archivo y el problema que soluciona. Asegurense de usar negrita, cursiva, listas ordenadas y dem´as estructuras en markdown para darle estilo al documento
 
 ### ESTE README
 
