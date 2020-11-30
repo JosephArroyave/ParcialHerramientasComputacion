@@ -22,7 +22,7 @@ PUNTO #2: 5 Puntos Cree un archivo de texto y resuelva las siguientes preguntas:
 1.	Que tipo de errores se presentaron o se pueden presentar con su implementaci´on al problema?
 2.	Que estrategias podr´ıa usar para solucionar estos errores?
 
-ARCHIVO.TEXT 
+ARCHIVO: Problemas y soluciones del codigo.text
 
 PUNTO #3: 10 Puntos Cree el repositorio ParcialHerramientasComputacionales usando su cuenta en el controlador de Versiones Github (un repositorio por pareja), suba los archivos de soluci´on al problema creados en los dos items anteriores
 
