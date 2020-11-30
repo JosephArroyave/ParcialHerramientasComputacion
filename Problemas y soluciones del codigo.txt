@@ -1,0 +1,22 @@
+Parcial Final herraminetas Computacion:
+Joseph Arroyave Restrepo
+
+A). Que tipo de errores se presentaron o se pueden presentar con su implementacion al problema?
+
+R// Uno de los problemas que se me presentaron fue que cuando preguntaba si era profesor o estudiante
+fue que me generara dos respuestas, pues detectar si es estudiante o profesor para el tema del imprimir
+el rol en la respuesta, y a su vez que ese mismo comando me sirviera para brindarle al programa el 
+porcetaje de descuento que obtiene dependiento del Rol
+
+R// Otro problema que tuve fue hacer este programa se estuviera repitiendo de manera repetitiva
+
+R// tambien esta el problema que intente que el codigo fuese funcionalpara perdir varios productos en 
+el mismo peedido y al final te botara el precio final de cada producto segun su cantidad y finalmente 
+mostrar el acumulado de todos los totales de los productos elejidos 
+
+B). Soluciones:
+R// Una de las posibles soluciones que veo factible para que el programa se haga de manera repetitiva es
+con un ciclo 
+
+R// Y para el tema de un pedido de multiples productos seria hacerle pedir al cliente la cantidad de cada
+producto en el menu, de no querer nada pues seria 0, aunque seria engorroso si el menu fuese numeroso 
